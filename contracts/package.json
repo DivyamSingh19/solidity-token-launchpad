@@ -9,11 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
+  "type": "commonjs",
   "dependencies": {
-    "@types/fs-extra": "^11.0.4",
-    "dotenv": "^17.2.3",
-    "fs-extra": "^11.3.2",
-    "hardhat": "^3.0.7"
+    "@openzeppelin/contracts": "^5.4.0"
   }
 }
